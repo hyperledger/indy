@@ -55,12 +55,12 @@ contributors have agreed to follow.
 
 The current Hyperledger Indy security team is:
 
-| Name             | Email ID                 | Discord ID      | Area/Specialty         |
-| ---------------- | ------------------------ | --------------- | ---------------------- |
-| Stephen Curran   | swcurran@cloudcompass.ca | swcurran        |              |
-| Wade Barnes      | wade@neoterictech.ca     | WadeBarnes      | Security, Operations   |
-| Sam Curren       | sam@indicio.tech         | TelegramSam     | Security               |
-| Andrew Whitehead | cywolf@gmail.com         | andrewwhitehead | Cryptography, Security |
+| Name           | Email ID                          | Discord ID    | Area/Specialty       |
+| -------------- | --------------------------------- | ------------- | -------------------- |
+| Stephen Curran | swcurran@cloudcompass.ca          | swcurran      |                      |
+| Wade Barnes    | wade@neoterictech.ca              | WadeBarnes    | Security, Operations |
+| Sam Curren     | sam@indicio.tech                  | TelegramSam   | Security             |
+| Renata Toktar  | renata.toktar@dsr-corporation.com | Renata.toktar | Security             |
 
 The security team for Hyperledger Indy must include at least three Indy
 Maintainers that agree to carry out the following duties and responsibilities.
